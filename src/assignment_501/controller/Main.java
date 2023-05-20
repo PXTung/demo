@@ -32,4 +32,9 @@ public class Main {
             }
         } while (menu != 0);
     }
+
+    // Test from Ly
+    void doSomeThing() {
+
+    }
 }
